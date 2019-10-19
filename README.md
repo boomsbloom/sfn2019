@@ -1,7 +1,8 @@
 # Uncertainty-based arbitration between incremental and episodic control over decisions
-## Society for Neuroscience 2019 Poster
----
+### Society for Neuroscience 2019 Poster
 #### Jonathan Nicholas, Nathaniel Daw, Daphna Shohamy
+---
+---
 
 This repository contains all analyses used to produce the results and figures presented.
 
