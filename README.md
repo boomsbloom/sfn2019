@@ -1,6 +1,8 @@
 # sfn2019
 Uncertainty-based arbitration between incremental and episodic control over decisions
 ---
+#### _Jonathan Nicholas, Nathaniel Daw, Daphna Shohamy_
+
 This repository contains all analyses used to produce the results and figures presented.
 
 * **[PDF of the poster](https://github.com/boomsbloom/sfn2019/blob/master/sfn2019_poster.pdf)**
